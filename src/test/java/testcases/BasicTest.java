@@ -43,7 +43,7 @@ public class BasicTest extends Base {
             webelementFunction.listhandling("listOfActualPrice", "271");
         } catch (Exception e) {
             throw new Exception(String.format(
-                    "Test Case Failed" ));
+                    "Test Case Failed " ));
         }
 
     }
